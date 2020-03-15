@@ -1,0 +1,3 @@
+[submodule "src/kp-lib"]
+	path = src/kp-lib
+	url = git_ssh:kp-void/kp-lib.git
